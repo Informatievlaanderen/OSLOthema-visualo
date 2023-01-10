@@ -18,14 +18,6 @@
         }
     ],
     "documentatie": [
-      {
-        "naam": "Modificatie Publicaties - 10 maart 2022",
-        "waarde": "10032022_OSLO Vervoersknooppunten_Modificatie model_Verslag.pdf"
-    },
-    {
-        "naam": "Mapping Publicaties",
-        "waarde": "Mapping_Vervoersknooppuntendatabank_0.1.xlsx"
-    }
     ],
     "charter": [
       {
@@ -37,50 +29,21 @@
       {
         "naam": "Verslag business werkgroep - 7 november 2022",
         "waarde": "OSLO Visualo_Business Werkgroep_Verslag_07112022.pdf"
-    },
-    {
-        "naam": "Verslag thematische werkgroep 1 - 23 november 2022",
-        "waarde": "23112021_OSLO Vervoersknooppunten_Thematische Werkgroep 1_Verslag.pdf"
-    },
-    {
-        "naam": "Verslag thematische werkgroep 2 - 21 december 2022",
-        "waarde": "21122021_OSLO Vervoersknooppunten_Thematische Werkgroep 2_Verslag.pdf"
-    },
-    {
-        "naam": "Verslag thematische werkgroep 3 - 18 januari 2022",
-        "waarde": "18012022_OSLO Vervoersknooppunten_Thematische Werkgroep 3_Verslag.pdf"
-    },
-    {
-        "naam": "Verslag thematische werkgroep 4 - 15 februari 2022",
-        "waarde": "15022022_OSLO Vervoersknooppunten_Thematische Werkgroep 4_Verslag.pdf"
     }
     ],
     "presentaties": [
       {
       "naam": "Presentatie business werkgroep - 7 november 2022",
-      "waarde": "Business Werkgroep presentatie.pdf"
+      "waarde": "07112022_OSLO Visualo_Business Werkgroep_Presentatie.pdf"
   },
   {
-      "naam": "Presentatie thematische werkgroep 1 - 23 november 2021",
-      "waarde": "23112021_OSLO Vervoersknooppunten_Thematische Werkgroep 1_Presentatie.pdf"
-  },
-  {
-      "naam": "Presentatie thematische werkgroep 2 - 21 december 2021",
-      "waarde": "21122021_OSLO Vervoersknooppunten_Thematische Werkgroep 2_Presentatie.pdf"
-  },
-  {
-      "naam": "Presentatie thematische werkgroep 3 - 18 januari 2022",
-      "waarde": "18012022_OSLO Vervoersknooppunten_Thematische Werkgroep 3_Presentatie.pdf"
-  },
-  {
-      "naam": "Presentatie thematische werkgroep 4 - 15 februari 2022",
-      "waarde": "15022022_OSLO Vervoersknooppunten_Thematische Werkgroep 4_Presentatie.pdf"
+      "naam": "Presentatie thematische werkgroep 1 - 09 januari 2023",
+      "waarde": "09012023_OSLO Visualo_Thematische Werkgroep 1_Presentatie.pdf"
   }
-
     ],
     "functioneel_toepassingsgebied": "Semantische standaard voor informatie over Publicaties",
     "organisatorisch_werkingsgebied": "Alle entiteiten van de Vlaamse Overheid",
-    "datum_van_aanmelding": "",
-    "erkenning_werkgroep_datastandaarden": "",
-    "erkenning_stuurgroep": ""
+    "datum_van_aanmelding": "TBD",
+    "erkenning_werkgroep_datastandaarden": "TBD",
+    "erkenning_stuurgroep": "TBD"
   }
