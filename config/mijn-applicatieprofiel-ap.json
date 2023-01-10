@@ -3,7 +3,7 @@
   "name": "mijn-applicatieprofiel-ap",
   "type": "ap",
   "eap": "MijnApplicatieprofiel-AP.eap",
-  "diagram": "MijnApplicatieprofiel",
+  "diagram": "Publicatiemodel",
   "template": "mijn-applicatieprofiel-ap.j2",
   "title": "Mijn Applicatieprofiel",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
