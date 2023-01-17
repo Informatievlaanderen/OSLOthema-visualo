@@ -2,7 +2,7 @@
 {
   "name": "mijn-applicatieprofiel-ap",
   "type": "ap",
-  "eap": "PublicatieModel.eap",
+  "eap": "TestPublicatieModel.eap",
   "diagram": "OSLO-Publicaties",
   "template": "mijn-applicatieprofiel-ap.j2",
   "title": "Publicaties",
