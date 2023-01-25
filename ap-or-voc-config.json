@@ -10,11 +10,11 @@
     "specificatiedocument": [
       {
         "naam": "Applicatieprofiel Publicaties",
-        "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/"
+        "waarde": "https://test.data.vlaanderen.be/doc/applicatieprofiel/publicatie-advertentie/ontwerpstandaard/2022-12-21"
         },
         {
         "naam": "Vocabularium Publicaties",
-        "waarde": "https://data.vlaanderen.be/ns/"
+        "waarde": "https://test.data.vlaanderen.be/doc/vocabularium/publicatie-advertentie/ontwerpstandaard/2022-12-21"
         }
     ],
     "documentatie": [
