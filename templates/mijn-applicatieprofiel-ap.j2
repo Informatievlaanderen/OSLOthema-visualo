@@ -1,13 +1,13 @@
 {% extends "ap2.j2" %}
 
 {% block summary %}
-<p>Het applicatieprofiel OSLO-Publicaties, een profiel op het vocabularium <a href="IN TE VULLEN ">OSLO-Publicaties </a>, legt uit hoe de terminologie omtrent advertenties en publicaties gebruikt moet worden om gegevens uit te wisselen over het uitwisselen van informatie tussen bepaalde stakeholders.</p>
-<p>Gezien het belang van een goede informatisering, de stimulatie van de lokale economie & handelaren en de heropleving van stadskernen werden zoveel mogelijke relevante elementen meegenomen om dit geheel zo goed mogelijk te kunnen ondersteunen </p>
-<p>Als basis voor het applicatieprofiel voor Advertenties - Publicaties konden we gebruik maken van de gedachtegang die gefaciliteerd werd bij XXX. </p>
-<p>De verschillende grote blokken in het applicatiemodel zijn de volgende: OSLO-Adres, OSLO-Advertentie, OSLO-Generiek, OSLO-Organisatie, OSLO-Persoon,OSLO-Infrastructuurelementen en OSLO-OpenbaarDomein </p>
-<p>OSLO-Generiek: Agent is een voorbeeld van een actor die in aanraking zal komen met het platform, meer specifiek een handelaar, een medewerker van de overheid, de handelszaak of overheid zelf. </p>
-<p> Aan de hand van publicaties op het digitaal platform zullen de agenten bepaalde informatie kunnen weergeven op verschillende elementen vanwaar ze de gewenste doelgroep kunnen bereiken, een van deze elementen is bijvoorbeeld het Infstructuurelement - digitale informatiezuil .</p>
-VERVOLG NEEDED
+<p>Het applicatieprofiel OSLO-VPublicaties toont hoe termen uit het overeenstemmend vocabularium gebruikt moeten worden om gegevens uit te wisselen over campagnes, publicaties en advertenties tussen personen, geregistreerde- en publieke organisaties.</p>
+<p>Digitale infoschermen zijn een krachtig communicatiemiddel, maar lokale besturen hebben vaak moeite om deze ten volle te benutten. Bijgevolg zijn ze vaak afhankelijk van hulp van buitenaf. Het doel van dit project is om een semantische standaard te creëren om zo meer controle te bieden aan de lokale besturen en ook lokale handelaren meer de kans te geven om gebruik te maken van deze infoschermen.</p>
+<p>Het model bestaat uit drie verschillende delen. Het eerste deel van het model gaat over hoe een publicatiecampagne tot stand komt. Deze wordt aangemaakt via de klasse Campagne, terwijl de advertentie zelf tot uiting komt via PublicatieEvent. Bij PublicatieEvent wordt dan ook beslist waar en wanneer de advertentie tevoorschijn komt, alsook het doelpubliek en de kostprijs. </p>
+<p>De advertentie zelf zit omvat in de klasse InformatieObject. Het kan bestaan uit verschillende soorten, zoals een tekst of een beeld. Hoe deze advertentie verspreid wordt zit dan vervat in de klasse PublicatieExpressie, waarmee het InformatieObject geassocieerd is via een dummy. PublicatieExpressie is zelf geassocieerd aan PublicatieEvent, en kan zo gelinkt worden aan de effectieve publicatie van de advertentie.</p>
+<p>Een advertentie wordt gemaakt en gepubliceerd door een bepaalde persoon of organisatie. Dit zit vervat in de klasse Agent. Dit kan dus een persoon zijn, of een publieke/privé organisatie.</p>
+<p>Enumeraties worden in principe buiten het applicatieprofiel beschreven, de in het diagram weergegeven enumeratiewaarden zijn dus illustratief.</p>
+
 {% endblock %}
 {% block status %}
 <p>(Verwijder dit blok om een geautomatiseerde standaardparagraaf te laten verschijnen.)</p>
