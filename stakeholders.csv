@@ -1,14 +1,12 @@
 Voornaam;Naam;Affiliatie;E-mail;Website;MijnKolom
 AuteurVoornaam;AuteurNaam;AuteurAffiliatie;auteurvoornaam.auteurnaam@auteurdomein;https://auteurwebsiteurl;A
-Lucas;Cornette;PWC;lucas.cornette@pwc.com;https://www.pwc.be/;E
-Arne;Scheldeman;PWC;arne.scheldeman@pwc.com;https://www.pwc.be/;E
-Laurens;Vercauteren;PWC;laurens.vercauteren@pwc.com;https://www.pwc.be/;E
+Lucas;Cornette;PWC;lucas.cornette@vlaanderen.be;https://www.pwc.be/;E
+Arne;Scheldeman;PWC;arne.scheldeman@vlaanderen.be;https://www.pwc.be/;E
+Laurens;Vercauteren;PWC;laurens.vercauteren@vlaanderen.be;https://www.pwc.be/;E
 Kasper;Vanbeginne;Stad Halle;;https://www.halle.be/;C
 Pieter-Jan;Fieremans;Stad Dendermonde;;https://www.dendermonde.be/;C
 Tine;Cahy;VERA;;https://www.vera.be/;C
 Joachim;Van den Bergh;Provincie Oost-Vlaanderen;;https://www.oost-vlaanderen.be/;C
-Arne;Smet;PWC;arne.smet@pwc.com;https://www.pwc.be/;C
-Arne;Scheldeman;PWC;arne.scheldeman@pwc.com;https://www.pwc.be/;C
 Fabian;De La Mellieure;Digitaal Vlaanderen;;https://vloca.vlaanderen.be/;C
 Alain;Glickman;Digitaal Vlaanderen;;https://vloca.vlaanderen.be/;C
 Alexander;Leysen;;;;C
@@ -16,6 +14,6 @@ Kenny;Stevens;VERA;;https://www.vera.be/;C
 Louis;Desbuquois;;;;C
 Dirk;Goeminne;Provincie Oost-Vlaanderen;;https://www.oost-vlaanderen.be/;C
 Andy;Bourriez;Provincie Oost-Vlaanderen;;https://www.oost-vlaanderen.be/;C
-Jef;Liekens;PWC;jef.liekens@pwc.com;https://www.pwc.be/;C
+Jef;Liekens;PWC;jef.liekens@vlaanderen.be;https://www.pwc.be/;C
 Jan;Potemans;VERA;;https://www.vera.be/;C
 Kenzo;Deceulener;VERA;;https://www.vera.be/;C
