@@ -29,7 +29,16 @@
       {
         "naam": "Verslag business werkgroep - 7 november 2022",
         "waarde": "OSLO Visualo_Business Werkgroep_Verslag_07112022.pdf"
-    }
+    },
+    {
+      "naam": "Verslag thematische werkgroep 1 - 9 januari 2023",
+      "waarde": "OSLO Visualo_Thematische Werkgroep 1_Verslag_09012023.pdf"
+  },
+    {
+      "naam": "Verslag thematische werkgroep 2 - 6 februari 2023",
+      "waarde": "OSLO Visualo_Thematische Werkgroep 2_Verslag_06022023.pdf"
+  }
+
     ],
     "presentaties": [
       {
@@ -39,7 +48,11 @@
   {
       "naam": "Presentatie thematische werkgroep 1 - 09 januari 2023",
       "waarde": "09012023_OSLO Visualo_Thematische Werkgroep 1_Presentatie.pdf"
-  }
+  },
+  {
+    "naam": "Presentatie thematische werkgroep 2 - 06 februari 2023",
+    "waarde": "06022023_OSLO Visualo_Thematische Werkgroep 2_Presentatie.pdf"
+}
     ],
     "functioneel_toepassingsgebied": "Semantische standaard voor informatie over Publicaties",
     "organisatorisch_werkingsgebied": "Alle entiteiten van de Vlaamse Overheid",
