@@ -2,8 +2,8 @@
   {
     "name": "publicatie-advertentie",
     "type": "voc",
-    "eap": "MijnVocabularium-VOC.eap",
-    "diagram": "OSLO-MijnVocabularium",
+    "eap": "PublicatieModel.eap",
+    "diagram": "OSLO-Publicaties",
     "template": "mijn-vocabularium-voc.j2",
     "title": "Mijn Vocabularium",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
