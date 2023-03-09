@@ -37,6 +37,10 @@
     {
       "naam": "Verslag thematische werkgroep 2 - 6 februari 2023",
       "waarde": "OSLO Visualo_Thematische Werkgroep 2_Verslag_06022023.pdf"
+  },   
+  {
+    "naam": "Verslag thematische werkgroep 3 - 6 maart 2023",
+    "waarde": "OSLO Visualo_Thematische Werkgroep 2_Verslag_06032023.pdf"
   }
 
     ],
@@ -52,6 +56,10 @@
   {
     "naam": "Presentatie thematische werkgroep 2 - 06 februari 2023",
     "waarde": "06022023_OSLO Visualo_Thematische Werkgroep 2_Presentatie.pdf"
+},
+{
+  "naam": "Presentatie thematische werkgroep 3 - 06 maart 2023",
+  "waarde": "06032023_OSLO Visualo_Thematische Werkgroep 3_Presentatie.pdf"
 },
 {
   "naam": "JSONld datavoorbeeld",
