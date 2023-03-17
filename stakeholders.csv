@@ -1,18 +1,26 @@
 Voornaam;Naam;Affiliatie;E-mail;Website;MijnKolom
-AuteurVoornaam;AuteurNaam;AuteurAffiliatie;auteurvoornaam.auteurnaam@auteurdomein;https://auteurwebsiteurl;A
 Lucas;Cornette;Digitaal Vlaanderen;lucas.cornette@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E
 Arne;Scheldeman;Digitaal Vlaanderen;arne.scheldeman@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E
 Laurens;Vercauteren;Digitaal Vlaanderen;laurens.vercauteren@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E
-Kasper;Vanbeginne;Stad Halle;;https://www.halle.be/;C
-Pieter-Jan;Fieremans;Stad Dendermonde;;https://www.dendermonde.be/;C
+Kasper;Vanbeginne;Stad Halle;kasper.vanbeginne@halle.be;https://www.halle.be/;A
+Pieter-Jan;Fieremans;Stad Dendermonde;pieter-jan.fieremans@oost-vlaanderen.be;https://www.dendermonde.be/;C
 Tine;Cahy;VERA;;https://www.vera.be/;C
-Joachim;Van den Bergh;Provincie Oost-Vlaanderen;;https://www.oost-vlaanderen.be/;C
+Joachim;Van den Bergh;Provincie Oost-Vlaanderen;joachim.van.den.bergh@oost-vlaanderen.be;https://www.oost-vlaanderen.be/;C
 Fabian;De La Mellieure;Digitaal Vlaanderen;;https://vloca.vlaanderen.be/;C
 Alain;Glickman;Digitaal Vlaanderen;;https://vloca.vlaanderen.be/;C
-Alexander;Leysen;;;;C
-Kenny;Stevens;VERA;;https://www.vera.be/;C
+Alexander;Leysen;Provincie Vlaams-Brabant;alexander.leysen@vlaamsbrabant.be;https://www.vlaamsbrabant.be/nl;C
+Kenny;Stevens;VERA;kenny.stevens@vera.be;https://www.vera.be/;C
 Louis;Desbuquois;;;;C
-Dirk;Goeminne;Provincie Oost-Vlaanderen;;https://www.oost-vlaanderen.be/;C
-Andy;Bourriez;Provincie Oost-Vlaanderen;;https://www.oost-vlaanderen.be/;C
-Jan;Potemans;VERA;;https://www.vera.be/;C
-Kenzo;Deceulener;VERA;;https://www.vera.be/;C
+Dirk;Goeminne;Provincie Oost-Vlaanderen;dirk.goeminne@oost-vlaanderen.be;https://www.oost-vlaanderen.be/;C
+Andy;Bourriez;Provincie Oost-Vlaanderen;andy.bourriez@oost-vlaanderen.be;https://www.oost-vlaanderen.be/;C
+Jan;Potemans;VERA;jan.potemans@vera.be;https://www.vera.be/;C
+Kenzo;Deceulener;VERA;kenzo.deceulener@halle.be;https://www.vera.be/;C
+Barbara;Cornelis;Halle;barbara.cornelis@halle.be;https://www.halle.be/;C
+Pieter;Taes;VERA;pieter.taes@vera.be;https://www.vera.be/;C
+Sarah;Smolders;VERA;sarah.smolders@vera.be;https://www.vera.be/;C
+Joseph;Bertels;Provincie Oost-Vlaanderen;joseph.berthels@oost-vlaanderen.be;https://www.oost-vlaanderen.be/;C
+Maartje;Du Pont;Provincie Oost-Vlaanderen;maartje.du.pont@oost-vlaanderen.be;https://www.oost-vlaanderen.be/;C
+Kenny;Gribbe;Stad Dendermonde;kenny.gribbe@dendermonde.be;https://www.dendermonde.be/;C
+Johan;De Backer;Stad Dendermonde;johan.debacker@dendermonde.be;https://www.dendermonde.be/;C
+Lieven;Decraemer;Stad Dendermonde;lieven.decraemer@dendermonde.be;https://www.dendermonde.be/;C
+Frank;Desmet;Haviland;frank.desmet@haviland.be;https://haviland.be/;C
