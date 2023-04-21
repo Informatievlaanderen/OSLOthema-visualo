@@ -6,12 +6,12 @@
     "diagram": "OSLO-Publicaties",
     "template": "mijn-vocabularium-voc.j2",
     "title": "Mijn Vocabularium",
-    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
     "publication-date": "2020-01-31",
     "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "MijnKolom",
     "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-mijnThema/issues",
-    "standaardregisterurl": "https://test-data.vlaanderen.be/doc/vocabularium/publicatie-advertentie/ontwerpstandaard/2022-12-21"
+    "standaardregisterurl": "https://test-data.vlaanderen.be/doc/vocabularium/publicatie-advertentie/kandidaatstandaard/2023-04-24"
   }
 ]
