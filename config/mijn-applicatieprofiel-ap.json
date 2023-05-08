@@ -5,7 +5,7 @@
   "eap": "PublicatieModel.eap",
   "diagram": "OSLO-Publicaties",
   "template": "mijn-applicatieprofiel-ap.j2",
-  "title": "Publicaties: Applicatieprofiel",
+  "title": "Publicatie-Advertentie: Applicatieprofiel",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
   "publication-date": "2020-01-31",
   "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
