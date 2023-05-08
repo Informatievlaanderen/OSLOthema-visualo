@@ -1,20 +1,16 @@
 {
-    "naam": "Vocabularia en Applicatieprofielen Publicaties",
+    "naam": "Applicatieprofiel Publicaties",
     "rapport" : "",
     "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
     "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
-    "publicatiedatum": "",
+    "publicatiedatum": "2023-04-24",
     "type_toepassing": "Aanbevolen (vrijwillig)",
-    "categorie": "Vocabularium & applicatieprofielen",
+    "categorie": "Applicatieprofiel",
     "beschrijving" : "template-description.md",
     "specificatiedocument": [
       {
         "naam": "Applicatieprofiel Publicaties",
-        "waarde": "https://test.data.vlaanderen.be/doc/applicatieprofiel/publicatie-advertentie/ontwerpstandaard/2022-12-21"
-        },
-        {
-        "naam": "Vocabularium Publicaties",
-        "waarde": "https://test.data.vlaanderen.be/doc/vocabularium/publicatie-advertentie/ontwerpstandaard/2022-12-21"
+        "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/publicatie-advertentie/kandidaatstandaard/2023-04-24"
         }
     ],
     "documentatie": [
@@ -40,7 +36,7 @@
   },   
   {
     "naam": "Verslag thematische werkgroep 3 - 6 maart 2023",
-    "waarde": "OSLO Visualo_Thematische Werkgroep 2_Verslag_06032023.pdf"
+    "waarde": "OSLO Visualo_Thematische Werkgroep 3_Verslag_06032023.pdf"
   }
 
     ],
@@ -68,7 +64,7 @@
     ],
     "functioneel_toepassingsgebied": "Semantische standaard voor informatie over Publicaties",
     "organisatorisch_werkingsgebied": "Alle entiteiten van de Vlaamse Overheid",
-    "datum_van_aanmelding": "TBD",
+    "datum_van_aanmelding": "2022-09-08",
     "erkenning_werkgroep_datastandaarden": "TBD",
     "erkenning_stuurgroep": "TBD"
   }
