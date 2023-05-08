@@ -1,5 +1,5 @@
 {
-    "naam": "Applicatieprofiel Publicaties",
+    "naam": "Applicatieprofiel Publicatie-Advertentie",
     "rapport" : "",
     "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
     "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
@@ -9,7 +9,7 @@
     "beschrijving" : "template-description.md",
     "specificatiedocument": [
       {
-        "naam": "Applicatieprofiel Publicaties",
+        "naam": "Applicatieprofiel Publicatie-Advertentie",
         "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/publicatie-advertentie/kandidaatstandaard/2023-04-24"
         }
     ],

@@ -1,5 +1,5 @@
 {
-    "naam": "Vocabularium Publicaties",
+    "naam": "Vocabularium Publicatie-Advertentie",
     "rapport" : "",
     "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
     "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
@@ -9,7 +9,7 @@
     "beschrijving" : "template-description.md",
     "specificatiedocument": [
         {
-        "naam": "Vocabularium Publicaties",
+        "naam": "Vocabularium Publicatie-Advertentie",
         "waarde": "https://data.vlaanderen.be/doc/vocabularium/publicatie-advertentie/kandidaatstandaard/2023-04-24"
         }
     ],
