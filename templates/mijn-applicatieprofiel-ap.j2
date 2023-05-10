@@ -3,10 +3,9 @@
 {% block summary %}
 <p>Het applicatieprofiel OSLO Publicatie-Advertentie toont hoe termen uit het overeenstemmend vocabularium gebruikt moeten worden om gegevens uit te wisselen over campagnes, publicaties en advertenties tussen personen, geregistreerde- en publieke organisaties.</p>
 <p>Deze standaard is ontstaan vanuit het Visualo-project, <a href=https://www.vlaio.be/nl/vlaio-netwerk/city-things-slimme-steden-en-gemeenten>City of Things</a>. Met het Visualo-project willen de initiatiefnemers, waaronder stad Halle, een gezond en aantrekkelijk stadscentrum creëren waar lokale verkopers, horeca, organisaties en de mensen die er wonen samen kunnen komen en de stad op een andere manier kunnen beleven.</p>
-<p>Het model bestaat uit drie verschillende delen: campagne-publicatie, creatie en persona’s.</p>
-<p>Het eerste deel van het model gaat over hoe een campagne en daaruit vloeiende publicaties tot stand komen. Deze wordt aangemaakt via de klasse Campagne, terwijl de publicatie zelf tot uiting komt via klasse PublicatieEvent. Bij PublicatieEvent wordt beslist waar, wanneer de publicatie tevoorschijn komt, naar wie de publicatie gericht is en hoe de publicatie opgesteld is.</p>
-<p>Het tweede deel van het model bespreekt de creatie van de publicatie. De creatie zit omvat in de klasse InformatieObject. Het kan bestaan uit verschillende soorten, zoals een tekst, beeld, audio etc. Hoe de publicatie gepresenteerd wordt, zit vervat in de klasse PublicatieExpressie, waarmee het InformatieObject geassocieerd is via een dummy.</p> 
-<p>Het derde deel van het model behandelt de persona’s en organisaties die instaan voor de creatie van de campagne en publicatie. Dit zit vervat in de klasse Agent, die gekoppeld is aan personen en/of publieke/privé organisaties.</p>
+<p>Het model bestaat uit twee verschillende delen: campagne-publicatie en persona’s.</p>
+<p>Het eerste deel van het model bespreekt de campagne en de publicaties.  Een campagne wordt aangemaakt via de klasse Campagne, terwijl de inhoud van de advertentie omvat zit in klasse InformatieObject. De publicatie van de advertentie wordt gecapteerd door klasse PublicatieEvent. De klasse Distributie omvat informatie over waar, wanneer de advertentie tevoorschijn komt en naar wie de publicatie gericht is.</p>
+<p>Het tweede deel van het model behandelt de persona’s en organisaties die instaan voor de creatie van de campagne en publicatie. Dit zit vervat in de klasse Agent, die gekoppeld is aan personen en/of publieke/privé organisaties.</p> 
 <p>Enumeraties worden in principe buiten het applicatieprofiel beschreven, de in het diagram weergegeven enumeratiewaarden zijn dus illustratief.
 
 {% endblock %}
