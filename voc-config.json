@@ -3,14 +3,14 @@
     "rapport" : "",
     "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
     "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
-    "publicatiedatum": "2023-04-24",
+    "publicatiedatum": "2023-11-09",
     "type_toepassing": "Aanbevolen (vrijwillig)",
     "categorie": "Vocabularium",
     "beschrijving" : "template-description.md",
     "specificatiedocument": [
         {
         "naam": "Vocabularium Publicatie-Advertentie",
-        "waarde": "https://data.vlaanderen.be/doc/vocabularium/publicatie-advertentie/kandidaatstandaard/2023-04-24"
+        "waarde": "https://data.vlaanderen.be/doc/vocabularium/publicatie-advertentie/erkendestandaard/2023-11-09"
         }
     ],
     "documentatie": [
