@@ -1,70 +1,71 @@
 {
-    "naam": "Vocabularium Publicatie-Advertentie",
-    "rapport" : "",
-    "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
-    "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
-    "publicatiedatum": "2023-11-09",
-    "type_toepassing": "Aanbevolen (vrijwillig)",
-    "categorie": "Vocabularium",
-    "beschrijving" : "template-description.md",
-    "specificatiedocument": [
-        {
-        "naam": "Vocabularium Publicatie-Advertentie",
-        "waarde": "https://data.vlaanderen.be/doc/vocabularium/publicatie-advertentie/erkendestandaard/2023-11-09"
-        }
-    ],
-    "documentatie": [
-    ],
-    "charter": [
-      {
-        "naam": "Charter",
-        "waarde": "Charter Visualo_OSLO_v1.0.pdf"
-        }
-    ],
-    "verslagen": [
-      {
-        "naam": "Verslag business werkgroep - 7 november 2022",
-        "waarde": "OSLO Visualo_Business Werkgroep_Verslag_07112022.pdf"
+  "title": "Vocabularium Publicatie-Advertentie",
+  "category": "Vocabularium",
+  "usage": "Aanbevolen (vrijwillig)",
+  "status": "erkende-standaard",
+  "descriptionFileName": "template-description.md",
+  "responsibleOrganisation": [
+    {
+      "name": "Agentschap Digitaal Vlaanderen",
+      "resourceReference": "https://data.vlaanderen.be/id/organisatie/OVO002949"
+    }
+  ],
+  "publicationDate": "2023-11-09",
+  "specificationDocuments": [
+    {
+      "name": "Vocabularium Publicatie-Advertentie",
+      "resourceReference": "https://data.vlaanderen.be/doc/vocabularium/publicatie-advertentie/erkendestandaard/2023-11-09"
+    }
+  ],
+  "documentation": [],
+  "reports": [
+    {
+      "name": "Verslag business werkgroep - 7 november 2022",
+      "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-visualo/standaardenregister/reports/OSLO Visualo_Business Werkgroep_Verslag_07112022.pdf"
     },
     {
-      "naam": "Verslag thematische werkgroep 1 - 9 januari 2023",
-      "waarde": "OSLO Visualo_Thematische Werkgroep 1_Verslag_09012023.pdf"
-  },
+      "name": "Verslag thematische werkgroep 1 - 9 januari 2023",
+      "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-visualo/standaardenregister/reports/OSLO Visualo_Thematische Werkgroep 1_Verslag_09012023.pdf"
+    },
     {
-      "naam": "Verslag thematische werkgroep 2 - 6 februari 2023",
-      "waarde": "OSLO Visualo_Thematische Werkgroep 2_Verslag_06022023.pdf"
-  },   
-  {
-    "naam": "Verslag thematische werkgroep 3 - 6 maart 2023",
-    "waarde": "OSLO Visualo_Thematische Werkgroep 2_Verslag_06032023.pdf"
-  }
-
-    ],
-    "presentaties": [
-      {
-      "naam": "Presentatie business werkgroep - 7 november 2022",
-      "waarde": "07112022_OSLO Visualo_Business Werkgroep_Presentatie.pdf"
+      "name": "Verslag thematische werkgroep 2 - 6 februari 2023",
+      "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-visualo/standaardenregister/reports/OSLO Visualo_Thematische Werkgroep 2_Verslag_06022023.pdf"
+    },
+    {
+      "name": "Verslag thematische werkgroep 3 - 6 maart 2023",
+      "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-visualo/standaardenregister/reports/OSLO Visualo_Thematische Werkgroep 2_Verslag_06032023.pdf"
+    }
+  ],
+  "charter": {
+    "name": "Charter",
+    "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-visualo/standaardenregister/charter/Charter Visualo_OSLO_v1.0.pdf"
   },
-  {
-      "naam": "Presentatie thematische werkgroep 1 - 09 januari 2023",
-      "waarde": "09012023_OSLO Visualo_Thematische Werkgroep 1_Presentatie.pdf"
-  },
-  {
-    "naam": "Presentatie thematische werkgroep 2 - 06 februari 2023",
-    "waarde": "06022023_OSLO Visualo_Thematische Werkgroep 2_Presentatie.pdf"
-},
-{
-  "naam": "Presentatie thematische werkgroep 3 - 06 maart 2023",
-  "waarde": "06032023_OSLO Visualo_Thematische Werkgroep 3_Presentatie.pdf"
-},
-{
-  "naam": "JSONld datavoorbeeld",
-  "waarde": "JSONld-datavoorbeeld.pdf"
+  "presentations": [
+    {
+      "name": "Presentatie business werkgroep - 7 november 2022",
+      "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-visualo/standaardenregister/presentations/07112022_OSLO Visualo_Business Werkgroep_Presentatie.pdf"
+    },
+    {
+      "name": "Presentatie thematische werkgroep 1 - 09 januari 2023",
+      "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-visualo/standaardenregister/presentations/09012023_OSLO Visualo_Thematische Werkgroep 1_Presentatie.pdf"
+    },
+    {
+      "name": "Presentatie thematische werkgroep 2 - 06 februari 2023",
+      "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-visualo/standaardenregister/presentations/06022023_OSLO Visualo_Thematische Werkgroep 2_Presentatie.pdf"
+    },
+    {
+      "name": "Presentatie thematische werkgroep 3 - 06 maart 2023",
+      "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-visualo/standaardenregister/presentations/06032023_OSLO Visualo_Thematische Werkgroep 3_Presentatie.pdf"
+    },
+    {
+      "name": "JSONld datavoorbeeld",
+      "resourceReference": "https://raw.githubusercontent.com/Informatievlaanderen/OSLOthema-visualo/standaardenregister/presentations/JSONld-datavoorbeeld.pdf"
+    }
+  ],
+  "dateOfRegistration": "2022-09-08",
+  "dateOfAcknowledgementByWorkingGroup": "2023-11-09",
+  "dateOfAcknowledgementBySteeringCommittee": "TBD",
+  "repository": "OSLOthema-visualo",
+  "datePublicReviewStart": "",
+  "endOfPublicationDate": ""
 }
-    ],
-    "functioneel_toepassingsgebied": "Semantische standaard voor informatie over Publicaties",
-    "organisatorisch_werkingsgebied": "Alle entiteiten van de Vlaamse Overheid",
-    "datum_van_aanmelding": "2022-09-08",
-    "erkenning_werkgroep_datastandaarden": "2023-11-09",
-    "erkenning_stuurgroep": "TBD"
-  }
