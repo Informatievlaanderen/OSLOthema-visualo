@@ -1,6 +1,6 @@
 [
   {
-    "name": "publicatie-advertentie",
+    "name": "publicatie",
     "type": "voc",
     "eap": "PublicatieModel.eap",
     "diagram": "OSLO-Publicaties",
