@@ -14,7 +14,7 @@
   "specificationDocuments": [
     {
       "name": "Vocabularium Publicatie-Advertentie",
-      "resourceReference": "https://data.vlaanderen.be/doc/vocabularium/publicatie-advertentie/erkendestandaard/2023-11-09"
+      "resourceReference": "https://data.vlaanderen.be/ns/publicatie-advertentie/"
     }
   ],
   "documentation": [],
